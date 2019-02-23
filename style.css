@@ -1,0 +1,52 @@
+#intro{
+    font-size: 125%;       
+    text-align: center;
+    font-family: 'Poppins';
+}
+::placeholder{
+        color:rgb(150,150,150);
+}
+#HEAD{
+    font-family: 'Felipa',cursive;
+    text-align: center;
+    font-size: 375%;
+}
+#form{
+    text-align: center;
+}
+#you{
+    padding-left: 10px;
+    text-decoration: none;
+    height: 40px;
+    width: 240px;
+    border-radius: 40px;
+    color: white;
+    background-color: rgb(60,60,60);
+}
+#fiance{
+    padding-left: 10px;
+    height: 40px;
+    width: 240px;
+    border-radius: 40px;
+    color: white;
+    background-color: rgb(60,60,60);
+}
+#submit{
+    float=left;
+    height: 25px;
+    border-radius: 25px;
+}
+#close{
+    float=right;
+    height: 25px;
+    border-radius: 25px;
+}
+#buttons{
+    text-align: center;
+}
+#res{
+    text-align: center;
+}
+#foot{
+    text-align: right;
+}
